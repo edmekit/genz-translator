@@ -211,5 +211,6 @@ btn.addEventListener("click", () => {
   }
 
  outputText.value = plainOutput;
+ formalText.value = formalOutput;
 
 });
