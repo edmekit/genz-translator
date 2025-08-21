@@ -1,7 +1,7 @@
 const Slang = {
-    "cooked": {
+  "cooked": {
     plain: "done for",
-    formal: "completely incapacitated or overwhelmed"
+    formal: "completely incapacitated"
   },
   "ate and left no crumbs": {
     plain: "did really well",
@@ -9,19 +9,19 @@ const Slang = {
   },
   "delulu": {
     plain: "delusional",
-    formal: "demonstrating unrealistic expectations"
+    formal: "unrealistic in expectations"
   },
   "rizz": {
     plain: "charisma",
-    formal: "social charisma or personal magnetism"
+    formal: "personal magnetism"
   },
   "lowkey": {
     plain: "a little",
-    formal: "to a modest or discreet extent"
+    formal: "discreetly"
   },
   "highkey": {
     plain: "very",
-    formal: "to a significant and overt extent"
+    formal: "openly"
   },
   "it’s giving": {
     plain: "it feels like",
@@ -29,188 +29,213 @@ const Slang = {
   },
   "no cap": {
     plain: "I’m serious",
-    formal: "this statement is made without exaggeration"
+    formal: "without exaggeration"
   },
   "mid": {
     plain: "average",
-    formal: "of mediocre quality"
+    formal: "mediocre quality"
   },
   "based": {
-    plain: "truee",
-    formal: "principled and consistent with stated values"
+    plain: "true",
+    formal: "aligned with principles"
   },
   "cringe": {
     plain: "embarrassing",
-    formal: "socially awkward or discomforting"
+    formal: "socially awkward"
   },
   "touch grass": {
     plain: "go outside",
     formal: "step away and regain perspective"
   },
   "goat": {
-    plain: "greatest of all time",
-    formal: "the most outstanding individual in a field"
+    plain: "greatest",
+    formal: "the most outstanding individual"
   },
   "sigma": {
     plain: "independent",
-    formal: "demonstrating self-sufficient and nonconformist behavior"
+    formal: "self-sufficient"
   },
   "bussin": {
     plain: "tasty",
-    formal: "exceptionally well-made or enjoyable"
+    formal: "exceptionally enjoyable"
   },
   "cap": {
     plain: "lie",
-    formal: "a false or exaggerated statement"
+    formal: "false statement"
   },
   "slaps": {
     plain: "really good",
-    formal: "remarkably effective or enjoyable"
+    formal: "highly effective"
   },
   "fire": {
     plain: "amazing",
-    formal: "of outstanding quality"
+    formal: "outstanding quality"
   },
   "dead": {
     plain: "laughing hard",
-    formal: "experiencing uncontrollable amusement"
+    formal: "uncontrollable amusement"
   },
   "lit": {
     plain: "exciting",
-    formal: "energetic and highly stimulating"
+    formal: "energetic"
   },
   "salty": {
     plain: "bitter",
-    formal: "displaying resentment or irritation"
+    formal: "resentful"
   },
   "shook": {
     plain: "surprised",
-    formal: "deeply unsettled or astonished"
+    formal: "deeply astonished"
   },
   "stan": {
     plain: "big fan",
-    formal: "an excessively enthusiastic supporter"
+    formal: "enthusiastic supporter"
   },
   "simp": {
-    plain: "too submissive for love",
-    formal: "overly compliant or deferential in pursuit of affection"
+    plain: "submissive for love",
+    formal: "overly deferential"
   },
   "flex": {
     plain: "show off",
-    formal: "display possessions or qualities ostentatiously"
+    formal: "display ostentatiously"
   },
   "sus": {
     plain: "suspicious",
-    formal: "appearing questionable or untrustworthy"
+    formal: "questionable"
   },
   "drip": {
     plain: "stylish clothing",
-    formal: "a fashionable or visually appealing appearance"
+    formal: "fashionable appearance"
   },
   "ghosted": {
     plain: "suddenly stopped talking",
-    formal: "ceased communication without explanation"
+    formal: "ended communication without explanation"
   },
   "slay": {
     plain: "did amazing",
-    formal: "achieved success with remarkable impact"
+    formal: "achieved remarkable success"
+  },
+  "slayed": {
+    plain: "did extremely well",
+    formal: "performed with excellence"
   },
   "glow up": {
     plain: "big improvement in looks",
-    formal: "a notable transformation in appearance"
+    formal: "notable transformation in appearance"
   },
   "npc": {
     plain: "unoriginal person",
-    formal: "an individual perceived as lacking independent thought"
+    formal: "lacking independent thought"
   },
   "vibe check": {
     plain: "test the mood",
-    formal: "evaluate the prevailing atmosphere or attitude"
+    formal: "evaluate the atmosphere"
   },
   "periodt": {
     plain: "no discussion",
-    formal: "this concludes the matter without further debate"
+    formal: "this concludes the matter"
   },
   "ratioed": {
     plain: "got more hate than likes",
-    formal: "received disproportionately negative feedback compared to support"
+    formal: "received disproportionate criticism"
   },
   "spill the tea": {
     plain: "share gossip",
-    formal: "disclose informal or potentially sensitive information"
+    formal: "disclose informal information"
   },
   "npc energy": {
     plain: "acting dull",
-    formal: "displaying behavior perceived as mechanical or uninspired"
+    formal: "uninspired behavior"
   },
   "pressed": {
     plain: "upset",
-    formal: "demonstrating irritation or frustration"
+    formal: "irritated"
   },
   "chad": {
     plain: "confident guy",
-    formal: "a stereotypically assertive and socially dominant male"
+    formal: "socially dominant male"
   },
   "fomo": {
     plain: "fear of missing out",
-    formal: "anxiety about being excluded from rewarding experiences"
+    formal: "anxiety about exclusion"
   },
   "mogged": {
     plain: "completely overshadowed",
-    formal: "thoroughly surpassed to the point of being diminished in comparison"
+    formal: "thoroughly surpassed"
   },
   "bet": {
     plain: "agreed",
-    formal: "an affirmative response indicating full agreement"
+    formal: "affirmative response"
   },
   "bruh": {
     plain: "dude",
-    formal: "an informal address used to express disbelief or frustration"
+    formal: "casual address"
   },
   "fam": {
     plain: "close friend",
-    formal: "a term of endearment used to describe a trusted companion"
+    formal: "trusted companion"
   },
   "ong": {
     plain: "truthfully",
-    formal: "a declaration asserting complete sincerity"
+    formal: "utterly sincere"
+  },
+  "fr": {
+    plain: "for real",
+    formal: "genuinely true"
+  },
+  "ig": {
+    plain: "I guess",
+    formal: "tentatively assumed"
   },
   "vibing": {
     plain: "relaxing",
-    formal: "experiencing a state of calm enjoyment"
+    formal: "calm enjoyment"
   },
   "caught in 4k": {
     plain: "caught red handed",
-    formal: "indisputably exposed in an act of wrongdoing"
+    formal: "indisputably exposed"
   },
   "skibidi": {
     plain: "nonsense",
-    formal: "a frivolous expression used humorously without inherent meaning"
+    formal: "meaningless expression"
   },
   "gyatt": {
     plain: "admiration for attractiveness",
-    formal: "an exclamation denoting strong appreciation for physical appeal"
+    formal: "exclamation of physical appeal"
   }
 }
 
-const btn = document.getElementById("trans");
-const input = document.getElementById("inputText");
-const output = document.getElementById("outputText");
 
-btn.addEventListener("click", () => {
-  let input = inputText.value.toLowerCase();
+const inputBox = document.getElementById("inputText");
+const outputBox = document.getElementById("outputText");
+const formalbtn = document.getElementById("Formal");
+const plainbtn = document.getElementById("Plain");
+const delbtn = document.getElementById("btn");
 
-  let plainOutput = input;
-  let formalOutput = input;
-
+plainbtn.addEventListener("click", () => {
+  let plainOutput = inputBox.value.toLowerCase();
 
   for (let slang in Slang) {
     let regex = new RegExp("\\b" + slang + "\\b", "gi");
-    plainOutput = plainOutput.replace(regex, Slang[slang].plain);
-    formalOutput = formalOutput.replace(regex, Slang[slang].formal);
+    plainOutput = plainOutput.replace(regex, Slang[slang]["plain"]);
   }
 
- outputText.value = plainOutput;
- formalText.value = formalOutput;
-
+  outputBox.value = plainOutput;
 });
+
+formalbtn.addEventListener("click", () => {
+  let formalOutput = inputBox.value.toLowerCase();
+
+  for (let slang in Slang) {
+    let regex = new RegExp("\\b" + slang + "\\b", "gi");
+    formalOutput = formalOutput.replace(regex, Slang[slang]["formal"]);
+  }
+
+  outputBox.value = formalOutput;
+});
+
+delbtn.addEventListener("click", () => {
+  inputBox.value = "";
+  outputBox.value = "";
+});
+
