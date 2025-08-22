@@ -38,6 +38,12 @@ That attire is exceptionally well put together, this statement is made without e
 
 ---
 
+## On-screen example
+
+![ex1](assets/Screenshot%202025-08-21%20161921.png)
+
+![ex2](assets/Screenshot%202025-08-21%20162001.png)
+
 ## 🚀 Future Plans
 - Expand the slang dictionary.  
 - Add more modes (e.g., **Humorous Mode**, **Academic Mode**).  
@@ -47,6 +53,8 @@ That attire is exceptionally well put together, this statement is made without e
 
 ## 🤝 Contributions
 Feel free to suggest new slang terms or improvements! Open a PR or drop ideas in Issues.
+
+Try it out in the about section!
 
 ---
 ✨ **tranZlator**: where urban dictionary and Google Translate meet.
